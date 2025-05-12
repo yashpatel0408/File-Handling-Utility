@@ -81,3 +81,6 @@ This project has a lot of scope for extensions. Some potential future extensions
 ### Conclusion
 
 This Java File Handling Utility project is a perfect place to start learning core Java file I/O operations. It features three simple yet fundamental file operations combined in one utility: write, read, and modify. The application was done as part of an exercise task during the Codtech internship and showcases both theoretical knowledge and practical implementation of Java programming. It is an excellent precursor to future projects involving file systems, data storage, or backend operations.
+
+
+*OUTPUT*:![Image](https://github.com/user-attachments/assets/d2fa60bb-a3dd-4986-9330-e03160406309)
